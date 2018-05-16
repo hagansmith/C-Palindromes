@@ -1,0 +1,6 @@
+/Users/adam/RiderProjects/Palindromes/bin/Debug/Palindromes.exe
+/Users/adam/RiderProjects/Palindromes/bin/Debug/Palindromes.pdb
+/Users/adam/RiderProjects/Palindromes/obj/Debug/Palindromes.csprojResolveAssemblyReference.cache
+/Users/adam/RiderProjects/Palindromes/obj/Debug/Palindromes.csproj.CoreCompileInputs.cache
+/Users/adam/RiderProjects/Palindromes/obj/Debug/Palindromes.exe
+/Users/adam/RiderProjects/Palindromes/obj/Debug/Palindromes.pdb
